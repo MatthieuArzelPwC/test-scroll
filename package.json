@@ -1,0 +1,13 @@
+{
+  "name": "test-scroll",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "weweb serve",
+    "build": "weweb build --name=test-scroll --type=wwobject",
+    "test": "node --test test/"
+  },
+  "devDependencies": {
+    "@weweb/cli": "3.8.16"
+  }
+}
